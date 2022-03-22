@@ -1,8 +1,6 @@
 # DesignPattern
 Design Pattern with C# .NET5
 
-  https://code-maze.com/design-patterns-csharp/
-
 ### Singleton
 - It allows us to create a single instance of an object and to share that instance with all the users that require it.
 
